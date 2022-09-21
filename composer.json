@@ -14,7 +14,7 @@
         "endclothing/prometheus_client_php": "^1.0"
     },
     "require": {
-        "php": "^7.2",
+        "php": ">=7.2",
         "ext-json": "*",
         "guzzlehttp/guzzle": "^6.3",
         "symfony/polyfill-apcu": "^1.6"
