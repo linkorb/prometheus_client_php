@@ -1,5 +1,5 @@
 {
-    "name": "endclothing/prometheus_client_php",
+    "name": "linkorb/prometheus_client_php",
     "description": "Prometheus instrumentation library for PHP applications.",
     "type": "library",
     "license": "Apache-2.0",
@@ -10,7 +10,8 @@
         }
     ],
     "replace": {
-        "jimdo/prometheus_client_php": "*"
+        "jimdo/prometheus_client_php": "*",
+        "endclothing/prometheus_client_php": "^1.0"
     },
     "require": {
         "php": "^7.2",
